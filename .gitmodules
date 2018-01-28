@@ -3,4 +3,4 @@
 	url = http://www.github.com/tuturuam/config
 [submodule "polybar"]
 	path = polybar
-	url = http://www.github.com/tuturuam/config
+	url = https://github.com/tuturuam/config
