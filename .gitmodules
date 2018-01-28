@@ -1,0 +1,6 @@
+[submodule "i3"]
+	path = i3
+	url = http://www.github.com/tuturuam/config
+[submodule "polybar"]
+	path = polybar
+	url = http://www.github.com/tuturuam/config
