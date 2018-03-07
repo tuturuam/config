@@ -174,7 +174,7 @@ icon-play = 
 icon-pause = 
 icon-next = 
 
-label-song-maxlen = 25
+label-song-maxlen = 60
 label-song-ellipsis = true
 
 [module/xbacklight]
